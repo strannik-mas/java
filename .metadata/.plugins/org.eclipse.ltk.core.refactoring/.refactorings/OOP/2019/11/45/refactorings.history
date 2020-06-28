@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy 2 elements to &apos;ComparableProject/src/su.strannik&apos;&#x0D;&#x0A;- Original project: &apos;OOP&apos;&#x0D;&#x0A;- Destination element: &apos;ComparableProject/src/su.strannik&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     su.strannik.Person.java&#x0D;&#x0A;     su.strannik.Program.java" description="Copy compilation units" destination="=ComparableProject/src&lt;su.strannik" element1="/src&lt;su.strannik{Person.java" element2="/src&lt;su.strannik{Program.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1573338077246" units="2" version="1.0"/>
-</session>
